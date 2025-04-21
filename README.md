@@ -1,5 +1,6 @@
 # Music-Streaming-App-in-DBMS
 🎵 Music Streaming App
+
 A music streaming platform where listeners can create playlists, like songs, and follow their favorite artists. The app supports genre-based discovery, mood and language filters, artist earnings calculation, and different experiences for premium and non-premium users.
 
 🚀 Features
